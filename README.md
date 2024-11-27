@@ -8,5 +8,5 @@ With fully configurable delays and customizable key bindings, it adapts to your 
 
 ```bash
   C:\Users\rshx\Documents> pip install keyboard mouse
-  C:\Users\rshx\Documents> python speedflip.py
+  C:\Users\rshx\Documents> python horsedash.py
 ```
